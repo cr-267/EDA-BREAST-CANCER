@@ -15,7 +15,7 @@ Welcome to the **Breast Cancer Detection** app—a user-friendly, interactive to
 
 ## 🚀 Live Demo
 [
-[View the live app here](Click Here)(https://breast-cancer-eda-jg6xj2cmwvazf6aappm5sdk.streamlit.app) 👈
+[View the live app here](Click Here)(https://eda-breast-cancer.streamlit.app/) 👈
 
 ---
 
